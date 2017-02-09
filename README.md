@@ -1,6 +1,7 @@
-Jasmine-node  
-======
 SELF LEARNING CLINIC REPO -- DAY 00
+======
+
+Jasmine-node  
 ======
 
 [![Build Status](https://secure.travis-ci.org/spaghetticode/jasmine-node.png)](http://travis-ci.org/spaghetticode/jasmine-node)

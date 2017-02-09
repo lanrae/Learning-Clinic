@@ -1,6 +1,6 @@
 (function() {
   'use strict';
-  var findMinMax = require('../find.js');
+  var findMinMax = require('../app/find.js');
   
   describe('Min-Max Numbers in a List: ', function () {
 

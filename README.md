@@ -1,3 +1,7 @@
+SELF LEARNING CLINIC REPO
+
+DAY 00
+
 jasmine-node
 ======
 

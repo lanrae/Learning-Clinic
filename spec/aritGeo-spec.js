@@ -1,6 +1,10 @@
 (function() {
   'use strict';
-  var fizzBuzz = require('../aritGeo.js');
+  var aritGeo = require('../aritGeo.js');
+
+// if module.exports is assigned an object:
+
+var aritGeo = require('../aritGeo.js').aritGeo;
 
 
   describe("Determine the sequence of an array of numbers: ", function() {

@@ -1,3 +1,4 @@
+
 module.exports = {
   findMinMax: function(y) {
               var posMax = 0;
@@ -22,3 +23,5 @@ module.exports = {
               return minMaxArray;
   }
 }
+
+//signed By Fawaz Bello

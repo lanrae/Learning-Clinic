@@ -1,10 +1,7 @@
-
-
-
-
-(function(){
+(function() {
   'use strict';
-  var calc = require('../find-spec.js');
+  var fizzBuzz = require('../aritGeo.js');
+
 
   describe("Determine the sequence of an array of numbers: ", function() {
 

@@ -1,4 +1,9 @@
-describe("Fizz Buzz tests ", function() {
+(function() {
+  'use strict';
+  var fizzBuzz = require('../fizzBuzz.js');
+
+
+ describe("Fizz Buzz tests ", function() {
 
   it("should return `Fizz` for number divisible by 3", function() {
     expect(fizzBuzz(3)).toBe('Fizz');
@@ -32,4 +37,5 @@ describe("Fizz Buzz tests ", function() {
     expect(fizzBuzz(101)).toBe(101);
   });
 
-});
+ });
+})();
